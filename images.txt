@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 redis:6.2.16-alpine
 rabbitmq:4.0.4-alpine
+elasticsearch:7.17.25
